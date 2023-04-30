@@ -4,11 +4,10 @@
 #include "lists.h"
 
 /**
- * main - code check
+ * main - check the code
  * 
  * Return: Always 0.
  */
-
 int main(void)
 {
     listint_t *head;
